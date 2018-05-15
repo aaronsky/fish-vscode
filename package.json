@@ -4,6 +4,7 @@
     "description": "Fish syntax highlighting",
     "version": "0.1.0",
     "publisher": "sky",
+    "repository": "github:aaronsky/fish-vscode",
     "engines": {
         "vscode": "^1.23.0"
     },
