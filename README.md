@@ -12,7 +12,7 @@ Fish syntax highlighting for VS Code
 
 ## Release Notes
 
-### 0.1.0
+### 0.1.1
 
 Initial release of fish-vscode
 
