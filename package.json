@@ -2,7 +2,7 @@
     "name": "fish-vscode",
     "displayName": "fish-vscode",
     "description": "Fish syntax highlighting",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "sky",
     "engines": {
         "vscode": "^1.23.0"
@@ -11,16 +11,24 @@
         "Programming Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "fish",
-            "aliases": ["Fish"],
-            "extensions": [".fish"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "fish",
-            "scopeName": "source.fish",
-            "path": "./syntaxes/fish.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "fish",
+                "aliases": [
+                    "Fish"
+                ],
+                "extensions": [
+                    ".fish"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "fish",
+                "scopeName": "source.fish",
+                "path": "./syntaxes/fish.tmLanguage"
+            }
+        ]
     }
 }
