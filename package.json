@@ -2,7 +2,7 @@
     "name": "fish-vscode",
     "displayName": "fish-vscode",
     "description": "Fish syntax highlighting",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "sky",
     "repository": "github:aaronsky/fish-vscode",
     "engines": {
