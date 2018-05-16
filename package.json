@@ -2,7 +2,7 @@
     "name": "fish-vscode",
     "displayName": "fish-vscode",
     "description": "Fish syntax highlighting",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "skyapps",
     "icon": "images/icon.png",
     "repository": {
