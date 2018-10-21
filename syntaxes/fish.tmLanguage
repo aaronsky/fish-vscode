@@ -9,7 +9,7 @@
 	<key>firstLineMatch</key>
 	<string>^#!.*(fish)</string>
 	<key>foldingStartMarker</key>
-	<string>^\s*(function|while|if|switch|for)\s.*$</string>
+	<string>^\s*(function|while|if|switch|for|begin)\s.*$</string>
 	<key>foldingStopMarker</key>
 	<string>^\s*end\s*$</string>
 	<key>keyEquivalent</key>
