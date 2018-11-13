@@ -264,7 +264,7 @@
 					<key>comment</key>
 					<string>single character character escape sequences</string>
 					<key>match</key>
-					<string>\\(a|b|e|f|n|r|t|v|\s|\$|\\|\*|\?|~|\%|#|(|)|{|}|\[|\]|&lt;|&gt;|\^)</string>
+					<string>\\(\"|\'|a|b|e|f|n|r|t|v|\s|\$|\\|\*|\?|~|\%|#|(|)|{|}|\[|\]|&lt;|&gt;|\^)</string>
 					<key>name</key>
 					<string>constant.character.escape.single.fish</string>
 				</dict>
