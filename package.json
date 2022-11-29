@@ -25,6 +25,7 @@
                 "extensions": [
                     ".fish"
                 ],
+                "firstLine": "^#!\\s*/usr/bin/env fish",
                 "configuration": "./language-configuration.json"
             }
         ],
